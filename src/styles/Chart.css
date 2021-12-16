@@ -1,0 +1,14 @@
+.Chart {
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+
+.Chart .planet {
+    margin: 10px;
+    width: fit-content;
+    align-self: flex-end;
+    text-align: center;
+    font-weight: 500;
+}

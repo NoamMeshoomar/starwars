@@ -1,0 +1,14 @@
+.Table {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.Table table {
+    width: 400px;
+    padding: 10px;
+    border: 1px solid black;
+}
